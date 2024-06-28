@@ -1,0 +1,29 @@
+# SCANSIONARE DOCUMENTP
+
+- Apro il cassetto
+    - trovo una pila di fogli del 2020
+    - trovo un documento importante
+    - lo appoggio sulla scrivania
+    - ridordino gli altri 
+    - li rimetto all'interno del cassetto
+    - chiudo il cassetto
+- Mi dirigo alla scanner
+    - prendo il documento
+    - mi alzo dalla scrivania
+    - mi dirigo allo scanner
+    - accendo lo scanner
+    - apro lo "sportello"
+    - PER OGNI foglio 
+        - metto il foglio
+        - faccio la scanzione
+        - salvo il file
+        - estraggo il foglio
+        - SE la scansione
+            - è andata bene inserisco il file in una cartella
+        - ALTRIMENTI
+            - Scarto il file e ne rifaccio uno nuovo
+- Unisco i file
+    - SE ho il software
+        - apro il software e combino i file
+    - ALTRIMENTI 
+        - Scarico il software e poi combino i file
